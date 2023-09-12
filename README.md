@@ -7,3 +7,5 @@ Type room id and start as host.
 Give id to friend who will start as client
 
 Edit username and then ENJOY SECURE CHATSYSTEM
+Create unityProject and add this assets folder replace with this one assets folder after extracting and add scenes in build settings and create apk android if you wish etc GOOODLUCCK
+
